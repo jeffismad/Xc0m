@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jeffismad/Xcom-/8ff1a812277ec494ebcd71db5a745f791c167b06/Xcom'))()
